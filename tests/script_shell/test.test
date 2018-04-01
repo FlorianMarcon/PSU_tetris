@@ -1,0 +1,25 @@
+--debug
+-D
+--debug -d x -d r -p p
+--debug -d x -t a -p p
+--debug --level=3
+--debug -L 3
+--debug --level=62
+--debug -l p
+--debug --key-left=o
+--debug --key-left=op
+--debug -r r
+--debug --key-right=r
+--debug --key-right=ra
+--debug -d r
+--debug --key-drop=r
+--debug --key-drop=rsa
+--debug -t t
+--debug --key-pause=a
+--debug --key-pause=aza
+--debug --key-turn=a
+--debug --key-turn=aaz
+--debug -p t
+--debug -w
+--debug --without-next
+--debug --map-size=13,6
